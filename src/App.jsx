@@ -4,7 +4,7 @@ import { Header } from "./components/header"
 import { Projects } from "./components/braend-img/projects"
 // import { News } from "./components/braend-img/News.JSX"
 import { Footer } from "./components/footer"
-import { News } from "./components/braend-img/news.jsx"
+// import { News } from "./components/braend-img/news.JSX"
 // import { News } from "./components/braend-img/News"
 
 
@@ -24,7 +24,7 @@ function App() {
         <Just />
         <BraendImg />
         <Projects />
-        <News />
+        {/* <News /> */}
         <Success />
         <Articles />
         <Wanna />
