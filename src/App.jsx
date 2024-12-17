@@ -2,8 +2,10 @@
 import { About, Articles, Bedroom, BraendImg, Just, Main, PlanProject, Success, Wanna } from "./components"
 import { Header } from "./components/header"
 import { Projects } from "./components/braend-img/projects"
-import { News } from "./components/braend-img/News.JSX"
+// import { News } from "./components/braend-img/News.JSX"
 import { Footer } from "./components/footer"
+import { News } from "./components/braend-img/news.jsx"
+// import { News } from "./components/braend-img/News"
 
 
 
